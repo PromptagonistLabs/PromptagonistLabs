@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 [![Website](https://img.shields.io/badge/Promptagonist.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://promptagonist.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PromptagonistLabs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/promptagonistlabs)
 
 <br />
 
@@ -117,7 +117,7 @@ AuthorStudio.cloud is the professional workspace where all our tools converge. A
 
 <div align="center">
 
-### 🏍️ [Led.Motorcycles](https://led.motorcycles)
+### 🏍️ [LED.Motorcycles](https://led.motorcycles)
 
 </div>
 
@@ -131,7 +131,7 @@ Led.Motorcycles is our passion project — a dedicated hub for custom LED lighti
 - 🎨 RGB color control via Bluetooth app
 - 🛡️ IP67 waterproof, vibration-resistant hardware
 
-[![Visit](https://img.shields.io/badge/Visit_Led.Motorcycles-EF4444?style=flat-square&logo=tesla&logoColor=white)](https://led.motorcycles)
+[![Visit](https://img.shields.io/badge/Visit_LED.Motorcycles-EF4444?style=flat-square&logo=tesla&logoColor=white)](https://led.motorcycles)
 
 ---
 
